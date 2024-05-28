@@ -1,5 +1,4 @@
 
-# KPMG Challange
 
 Technical Challenge
 
